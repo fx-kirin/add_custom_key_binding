@@ -13,6 +13,10 @@ add_keybinding "MyShortcut" "<super>w" "/usr/bin/gedit"
 
 ## Installation
 
+```
+pip install add_custom_key_binding
+```
+
 ### Requirements
 
 ## Compatibility
